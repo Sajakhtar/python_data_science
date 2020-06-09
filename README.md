@@ -6,10 +6,18 @@ Topics covered:
 * Data visualization with Matplotlib, Seaborn, Cufflinks + Plotly
 * Data munging and Feature Engineering using Pandas
 * Machine Learning with Scikitlearn and Deep Learning with Keras & TensorFlow
-  * Linear Regression
-  * Cross Validation
-  * Bias versus Variance tradeoff
-  * Classification with Logistic Regression, Decision Trees, Random Forests, Convolutional Neural Networks (CNN)
-  * K-Nearest Neigbours
+  * Linear Regression for predicition of continuous variables
+  * Cross Validation to improve model validation
+  * Bias-Variance tradeoff theory
+  * Logistic Regression for classification
+  * K-Nearest Neigbours for classification
+  * Decision Trees for classification
+  * Random Forests for classification
+  * K-means Clustering, unsupervised learning
+  * Principal Component Analysis as a dimensionality reduction technique
+  * Recommender Systems using a movies data
+  * Natural Language Processing (NLP)
+  * Deep Learning with Convolutional Neural Networks (CNN) with TensorFlow and Keras
+  * Big Data with Spark, PySpark and AWS EC2
   * K-means Clustering
   
