@@ -5,7 +5,7 @@ Topics covered:
 * Exploratory Data Analysis using Numpy, Pandas
 * Data visualization with Matplotlib, Seaborn, Cufflinks + Plotly
 * Data munging and Feature Engineering using Pandas
-* Machine Learning with Scikitlearn and Deep Learning with Keras & TensorFlow
+* Machine Learning (supervised learning and unsupervised learning)with Scikitlearn
   * Linear Regression for predicition of continuous variables
   * Cross Validation to improve model validation
   * Bias-Variance tradeoff theory
@@ -13,11 +13,10 @@ Topics covered:
   * K-Nearest Neigbours for classification
   * Decision Trees for classification
   * Random Forests for classification
-  * K-means Clustering, unsupervised learning
+  * K-means Clustering for unsupervised learning
   * Principal Component Analysis as a dimensionality reduction technique
   * Recommender Systems using a movies data
   * Natural Language Processing (NLP)
-  * Deep Learning with Convolutional Neural Networks (CNN) with TensorFlow and Keras
-  * Big Data with Spark, PySpark and AWS EC2
-  * K-means Clustering
+* Deep Learning with Convolutional Neural Networks (CNN) with TensorFlow and Keras
+* Big Data with Spark, PySpark and AWS EC2
   
