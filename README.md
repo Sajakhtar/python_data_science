@@ -18,7 +18,7 @@ Topics covered:
   * Principal Component Analysis as a dimensionality reduction technique
   * Recommender Systems using a movies data
   * Natural Language Processing (NLP)
-* Deep Learning with Convolutional Neural Networks (CNN) with TensorFlow and Keras
+* Deep Learning with Convolutional Neural Networks (CNN) using TensorFlow and Keras
   * Regression
   * Classification
 * Big Data with Spark, PySpark and AWS EC2
