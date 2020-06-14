@@ -1,7 +1,7 @@
-### Python Data Science course (Jose Portilla):
+#Python Data Science course (Jose Portilla):
 ___
 
-Topics covered:
+##Topics:
 
 * Exploratory Data Analysis using Numpy, Pandas
 * Data visualization with Matplotlib, Seaborn, Cufflinks + Plotly
