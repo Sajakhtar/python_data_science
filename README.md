@@ -19,5 +19,9 @@ Topics covered:
   * Recommender Systems using a movies data
   * Natural Language Processing (NLP)
 * Deep Learning with Convolutional Neural Networks (CNN) with TensorFlow and Keras
+  * Regression
+  * Classification
 * Big Data with Spark, PySpark and AWS EC2
+  * Lambda expressions
+  * Spark Resilient Distributed Datasets (RDD) transformations
   
